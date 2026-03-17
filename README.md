@@ -10,7 +10,7 @@ and the impact of discounts on business performance.
 
 Check out the interactive Streamlit dashboard:
 
-**[Launch App](https://your-app-name.streamlit.app)**
+**[Launch App](https://superstoredataanalytics-daar8sszaksqvhwh25jiuk.streamlit.app/)**
 
 ---
 
