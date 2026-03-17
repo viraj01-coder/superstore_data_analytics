@@ -1,9 +1,6 @@
-```
 pandas
 numpy
 plotly
 pandasql
 streamlit
 jupyter
-
-```
