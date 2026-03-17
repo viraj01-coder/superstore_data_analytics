@@ -2,4 +2,5 @@ pandas
 numpy
 plotly
 pandasql
-streamlit
+streamlit==1.28.0
+altair==4.2.2
